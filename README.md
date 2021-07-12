@@ -1,2 +1,2 @@
 # Hero Of The Depths
-Android game in development, after finishing android version it will be ported to PC
+PC game in development, when beta closes, will be ported to android
